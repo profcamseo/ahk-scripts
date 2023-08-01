@@ -4,7 +4,3 @@
 FormatTime, CurrentDateTime,, dd/MM/yy
 SendInput %CurrentDateTime%
 return
-
-^j::
-Send, My First Script
-return
